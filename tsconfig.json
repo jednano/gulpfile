@@ -1,0 +1,13 @@
+{
+	"compilerOptions": {
+		"target": "es2015",
+		"declaration": true,
+		"newLine": "LF",
+		"outDir": "build",
+		"rootDir": "."
+	},
+	"files": [
+		"gulpfile.ts",
+		"typings/main.d.ts"
+	]
+}

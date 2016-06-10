@@ -1,0 +1,8 @@
+{
+  "ambientDependencies": {
+    "orchestrator": "github:DefinitelyTyped/DefinitelyTyped/orchestrator/orchestrator.d.ts#e69fe60f2d6377ea4fae539493997b098f52cad1",
+    "Q": "github:DefinitelyTyped/DefinitelyTyped/q/Q.d.ts#e69fe60f2d6377ea4fae539493997b098f52cad1",
+    "gulp": "github:DefinitelyTyped/DefinitelyTyped/gulp/gulp.d.ts#e69fe60f2d6377ea4fae539493997b098f52cad1",
+    "node": "github:DefinitelyTyped/DefinitelyTyped/node/node.d.ts#e69fe60f2d6377ea4fae539493997b098f52cad1"
+  }
+}

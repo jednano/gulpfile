@@ -1,3 +1,6 @@
+typings/browser
+typings/browser.d.ts
+
 # Logs
 logs
 *.log

@@ -1,14 +1,16 @@
 {
   "name": "gulpfile",
   "version": "0.0.0",
-  "description": "Example of a working gulpfile.js.",
-  "main": "gulpfile.js",
+  "description": "Example of a working gulpfile.ts.",
+  "main": "gulpfile.ts",
   "scripts": {
     "test": "gulp"
   },
   "author": "Jed Mao <jedmao@outlook.com>",
   "license": "MIT",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "ts-node": "^0.8.0",
+    "typescript": "^1.8.10"
   }
 }
