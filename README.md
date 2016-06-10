@@ -1,8 +1,8 @@
 # gulpfile
 
-[![Travis Build Status](https://img.shields.io/travis/jedmao/gulpfile.svg?label=unix)](https://travis-ci.org/jedmao/gulpfile)
+[![Travis Build Status](https://travis-ci.org/jedmao/gulpfile.svg?branch=babel)](https://travis-ci.org/jedmao/gulpfile)
 
-Example of a working gulpfile.js.
+Example of a working gulpfile.babel.js.
 
 ## Installation
 
@@ -19,8 +19,9 @@ $ gulp
 The result should look something like this:
 
 ```bash
-[12:15:30] Using gulpfile Z:\Documents\GitHub\gulpfile\gulpfile.js
-[12:15:30] Starting 'default'...
+[12:28:36] Requiring external module babel-register
+[12:28:36] Using gulpfile Z:\Documents\GitHub\gulpfile\gulpfile.babel.js
+[12:28:40] Starting 'default'...
 Hello world!
-[12:15:30] Finished 'default' after 88 μs
+[12:28:40] Finished 'default' after 90 μs
 ```
