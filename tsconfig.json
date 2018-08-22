@@ -5,9 +5,5 @@
 		"newLine": "LF",
 		"outDir": "build",
 		"rootDir": "."
-	},
-	"files": [
-		"gulpfile.ts",
-		"typings/main.d.ts"
-	]
+	}
 }

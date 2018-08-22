@@ -9,8 +9,9 @@
   "author": "Jed Mao <jedmao@outlook.com>",
   "license": "MIT",
   "devDependencies": {
-    "gulp": "^3.9.1",
-    "ts-node": "^0.8.0",
-    "typescript": "^1.8.10"
+    "@types/gulp": "^4.0.5",
+    "gulp": "^4.0.0",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.0.1"
   }
 }
